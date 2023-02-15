@@ -1,1 +1,1 @@
-all about shell permissions
+shell basics tasks
